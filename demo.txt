@@ -1,0 +1,2 @@
+This is a demo text file for checking if the program works. This is sentence one for the example.
+This is sentence two for the example And this is sentence three.
